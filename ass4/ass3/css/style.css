@@ -1,0 +1,139 @@
+.navbar-brand,
+.navbar-nav .nav-link,
+.dropdown-menu .dropdown-item {
+    font-family: "Space Mono", monospace;
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+#catogories h1 {
+font-family: "Space Mono", monospace;
+text-align: center;
+
+}
+
+.card-body h5{
+    font-family: "Space Mono", monospace;
+    text-align: center;
+
+}
+
+#clothings h1{
+    margin-top: 100px;
+}
+
+.col{
+    margin-top: 50px;
+}
+
+#backgroundcolor{
+    background-color: rgb(255, 255, 255);
+}
+
+
+.col-lg-7{
+    font-family: "Space Mono", monospace;
+}
+.form-floating{
+    font-family: "Space Mono", monospace;
+
+}
+
+.w-100{
+    font-family: "Space Mono", monospace;
+}
+.display-5 {
+    font-family: "Space Mono", monospace;
+}
+.lead {
+    font-family: "Space Mono", monospace;
+}
+.btn{
+    font-family: "Space Mono", monospace;
+}
+
+.card-cover {
+    background-size: cover; 
+    background-position: center; 
+  }
+
+  .pt-5 {
+    font-family: "Space Mono", monospace;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+  }
+ 
+  .pb-2 {
+    font-family: "Space Mono", monospace;
+  }
+    
+
+  .conatiner h2{
+    font-family: "Space Mono", monospace;
+  }
+
+
+  #aboutus{
+    font-family: "Space Mono", monospace;
+    margin-top: 10px;
+  }
+
+
+  .menproduct  {
+    font-family: "Space Mono", monospace;
+    text-align: left;
+    margin-left: 10px;
+  }
+  .womenproduct  {
+    font-family: "Space Mono", monospace;
+    text-align: left;    
+    margin-left: 10px;
+    margin-top: 40px;
+  }
+
+.card-footer {
+    font-family: "Space Mono", monospace;
+    font-size: larger;
+}
+
+#Accessories {
+    font-family: "Space Mono", monospace;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.card-img-top{
+    height: 100%;
+
+}
+
+#featuredproducts{
+    font-family: "Space Mono", monospace;
+}
+
+.mb-1 {
+    font-size: smaller;
+}
+
+#checkout {
+    font-family: "Space Mono", monospace;
+}
+
+.container h1{
+    font-family: "Space Mono", monospace;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.container h2{
+    font-family: "Space Mono", monospace;
+    margin-top: 30px;
+}
+.container{
+    font-family: "Space Mono", monospace;
+}
+
+
+
+
